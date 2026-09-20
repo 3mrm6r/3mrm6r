@@ -8,7 +8,7 @@
 
 WebDeveloper with a strong passion for building web applications using Angular and ASP.NET Core. A fast learner with the ability to quickly grasp new concepts and technologies, complemented by strong proficiency in using AI tools to accelerate development and problem-solving.
 
-🔭 &nbsp;I'm currently working on **kayan.home**
+### 🔭 &nbsp;I'm currently working on **kayan.home**
 
 ### 🛠️ Tech Stack
 
